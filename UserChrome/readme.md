@@ -1,4 +1,4 @@
-脚本使用说明 https://github.com/hing/Firefox-UserChrome-WebExtension/tree/master/UserChrome/UserChrome
+[脚本使用说明](https://github.com/hing/Firefox-UserChrome-WebExtension/tree/master/UserChrome/UserChrome)
 
 AutoHideBookmarkBar.uc.js   自动隐藏收藏栏
 
