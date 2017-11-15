@@ -1,3 +1,5 @@
+脚本使用说明 https://github.com/hing/Firefox-UserChrome-WebExtension/tree/master/UserChrome/UserChrome
+
 AutoHideBookmarkBar.uc.js   自动隐藏收藏栏
 
 MouseOverSelectTab.js   鼠标悬停激活标签
