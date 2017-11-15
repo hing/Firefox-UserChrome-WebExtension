@@ -1,8 +1,6 @@
 config.js 与 userChromeJS.js 放在 Firefox 根目录下
 
-
 config-prefs.js 放在 Firefox 根目录 \defaults\pref 下
-
 
 userChrome.js 放在配置文件目录的 chrome 目录下
 
